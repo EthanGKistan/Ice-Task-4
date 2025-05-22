@@ -10,4 +10,4 @@ It takes a user-entered name as a query parameter and returns a greeting message
 2. Open a terminal or PowerShell window.
 3. Navigate to the project folder:
 
-![Function Running Screenshot](./screenshot.png)
+![Function Running Screenshot](./screenshot(102).png)
